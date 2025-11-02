@@ -1,0 +1,11 @@
+package com.me1.practice;
+
+import org.testng.annotations.Test;
+
+public class Annot {
+
+@Test
+public void demo() {
+	System.out.println("hehe");
+}
+}

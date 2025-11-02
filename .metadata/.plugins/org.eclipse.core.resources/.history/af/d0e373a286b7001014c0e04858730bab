@@ -1,0 +1,10 @@
+package Optimized;
+
+import org.testng.annotations.Test;
+
+public class Campaigns_Additions {
+@Test
+public void campaignsAdditions() {
+	
+}
+}

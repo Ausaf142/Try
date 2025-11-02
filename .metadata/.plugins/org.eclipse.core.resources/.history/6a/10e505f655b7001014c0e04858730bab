@@ -1,0 +1,13 @@
+package com.me1.practice;
+
+import java.io.FileInputStream;
+
+import org.testng.annotations.Test;
+
+public class DDTExcel {
+@Test
+public void ddtexcel() {
+	FileInputStream fis = new FileInputStream(null)
+	
+}
+}

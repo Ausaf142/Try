@@ -1,0 +1,12 @@
+package com.me1.practice;
+
+import java.io.FileInputStream;
+
+import org.testng.annotations.Test;
+
+public class ddtnotepad {
+	@Test
+public void ddtnote() {
+	FileInputStream fis = new FileInputStream(null)
+}
+}

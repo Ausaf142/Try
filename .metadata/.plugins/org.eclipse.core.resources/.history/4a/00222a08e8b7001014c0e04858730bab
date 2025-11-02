@@ -1,0 +1,6 @@
+Sleep(1000)
+Send("downloads")
+Send("{ENTER}")
+Sleep(1000)
+Send("C:\Users\dell\Downloads\Ausaf-Resume.pdf")
+Send("{ENTER}")
