@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.me1.practice.ROBOT">
+      <class name="com.me1.practice.ddtnotepad">
         <methods>
-          <include name="rbt"/>
+          <include name="ddtnote"/>
         </methods>
-      </class> <!-- com.me1.practice.ROBOT -->
+      </class> <!-- com.me1.practice.ddtnotepad -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
